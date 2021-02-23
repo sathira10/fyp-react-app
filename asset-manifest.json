@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pv-emulator-ui/static/css/main.8c197252.chunk.css",
+    "main.js": "/pv-emulator-ui/static/js/main.d408da57.chunk.js",
+    "main.js.map": "/pv-emulator-ui/static/js/main.d408da57.chunk.js.map",
+    "runtime-main.js": "/pv-emulator-ui/static/js/runtime-main.ebe7cecc.js",
+    "runtime-main.js.map": "/pv-emulator-ui/static/js/runtime-main.ebe7cecc.js.map",
+    "static/css/2.18fb2676.chunk.css": "/pv-emulator-ui/static/css/2.18fb2676.chunk.css",
+    "static/js/2.d0c341db.chunk.js": "/pv-emulator-ui/static/js/2.d0c341db.chunk.js",
+    "static/js/2.d0c341db.chunk.js.map": "/pv-emulator-ui/static/js/2.d0c341db.chunk.js.map",
+    "index.html": "/pv-emulator-ui/index.html",
+    "static/css/2.18fb2676.chunk.css.map": "/pv-emulator-ui/static/css/2.18fb2676.chunk.css.map",
+    "static/css/main.8c197252.chunk.css.map": "/pv-emulator-ui/static/css/main.8c197252.chunk.css.map",
+    "static/js/2.d0c341db.chunk.js.LICENSE.txt": "/pv-emulator-ui/static/js/2.d0c341db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebe7cecc.js",
+    "static/css/2.18fb2676.chunk.css",
+    "static/js/2.d0c341db.chunk.js",
+    "static/css/main.8c197252.chunk.css",
+    "static/js/main.d408da57.chunk.js"
+  ]
+}
